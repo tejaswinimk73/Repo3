@@ -1,0 +1,12 @@
+"patients": [{
+		"firstName": "PatientName71",
+		"lastName": "PatientName80",
+		"middleName": "PatientName81",
+		"dateOfBirth": "4/20/2000",
+		"gender": "MALE",
+		"language": "en",
+		"street": "No 14",
+		"city": "Bangalore",
+		"state": "DC",
+		"zip": "98898",
+}]
